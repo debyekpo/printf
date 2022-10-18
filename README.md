@@ -30,3 +30,6 @@ You don’t have to handle the length modifiers
 Repo:
 
 GitHub repository: printf
+
+Authors of this project :
+Deborah Ekpo and Olanrewaju Superblessing
